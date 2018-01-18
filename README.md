@@ -49,6 +49,10 @@ $ rm $(which climock)
 
 ## Usage
 
+```
+$ climock [option] [arg]
+```
+
 ### Options
 
 ```
@@ -85,7 +89,7 @@ Use the `--exit` option to define the exit status code integer value:
 ```
 $ climock --exit 1
 ```
-The exit status code option can be combined with the standard output and standard error options to modify the exit status code returned when there is text present in these streams.
+The exit status code option can be combined with the standard output and standard error options.
 
 ## Issues
 
