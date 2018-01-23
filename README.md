@@ -99,6 +99,6 @@ Please [file an issue report](https://github.com/chrissimpkins/climock/issues/ne
 
 Contributions to the project are welcomed. Please submit your changes as a pull request on this repository.
 
-### License
+## License
 
 climock is licensed under the [MIT License](LICENSE)
